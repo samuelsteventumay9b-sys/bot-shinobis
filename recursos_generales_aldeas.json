@@ -1,0 +1,128 @@
+{
+  "konoha": {
+    "habitantes": 9,
+    "productores": 0,
+    "tipo_productor": "medicamentos",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 20,
+      "agua": 14,
+      "ropas": 10,
+      "medicamentos": 0,
+      "minerales": 0
+    }
+  },
+  "kumogakure": {
+    "habitantes": 0,
+    "productores": 0,
+    "tipo_productor": "comida",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 0,
+      "agua": 14,
+      "ropas": 0,
+      "medicamentos": 3,
+      "minerales": 4
+    }
+  },
+  "kirigakure": {
+    "habitantes": 12,
+    "productores": 2,
+    "tipo_productor": "agua",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 16,
+      "agua": 0,
+      "ropas": 10,
+      "medicamentos": 0,
+      "minerales": 6
+    }
+  },
+  "kinkogakure": {
+    "habitantes": 6,
+    "productores": 3,
+    "tipo_productor": "agua",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 0,
+      "agua": 0,
+      "ropas": 10,
+      "medicamentos": 3,
+      "minerales": 6
+    }
+  },
+  "sunagakure": {
+    "habitantes": 0,
+    "productores": 1,
+    "tipo_productor": "ropas",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 16,
+      "agua": 0,
+      "ropas": 0,
+      "medicamentos": 5,
+      "minerales": 6
+    }
+  },
+  "iwagakure": {
+    "habitantes": 0,
+    "productores": 0,
+    "tipo_productor": "minerales",
+    "usos_productores_restantes": 4,
+    "robos_almacen": 0,
+    "produccion_robada": 0,
+    "robos_productores": 0,
+    "minerales": 10,
+    "comida": 60,
+    "agua": 30,
+    "ropas": 30,
+    "medicamentos": 15,
+    "produccion_pasiva": {
+      "comida": 20,
+      "agua": 16,
+      "ropas": 8,
+      "medicamentos": 0,
+      "minerales": 0
+    }
+  }
+}

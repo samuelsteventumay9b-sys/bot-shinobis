@@ -1,0 +1,50 @@
+{
+  "konoha": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  },
+  "kumogakure": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  },
+  "kirigakure": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  },
+  "kinkogakure": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  },
+  "sunagakure": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  },
+  "iwagakure": {
+    "misiones": {
+      "genin": 0,
+      "chunin": 0,
+      "jonin": 0
+    },
+    "usuarios": {}
+  }
+}

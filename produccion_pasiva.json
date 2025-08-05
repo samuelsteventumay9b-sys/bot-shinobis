@@ -1,0 +1,44 @@
+{
+  "Konoha": {
+    "comida": 20,
+    "agua": 14,
+    "ropas": 10,
+    "medicamentos": 0,
+    "minerales": 0
+  },
+  "Suna": {
+    "comida": 16,
+    "agua": 0,
+    "ropas": 0,
+    "medicamentos": 5,
+    "minerales": 6
+  },
+  "Kiri": {
+    "comida": 16,
+    "agua": 0,
+    "ropas": 10,
+    "medicamentos": 0,
+    "minerales": 6
+  },
+  "kinko": {
+    "comida": 0,
+    "agua": 0,
+    "ropas": 10,
+    "medicamentos": 0,
+    "minerales": 6
+  },
+  "kumo": {
+    "comida": 16,
+    "agua": 0,
+    "ropas": 10,
+    "medicamentos": 0,
+    "minerales": 6
+  },
+  "iwa": {
+    "comida": 16,
+    "agua": 0,
+    "ropas": 10,
+    "medicamentos": 0,
+    "minerales": 6
+  },
+}

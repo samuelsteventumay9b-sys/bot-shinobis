@@ -1,0 +1,19 @@
+{
+  "konoha": {
+    "1": {
+      "nombre": "espada",
+      "cantidad": 2,
+      "fecha_creacion": "transferencia"
+    },
+    "2": {
+      "nombre": "katana",
+      "cantidad": 5,
+      "fecha_creacion": "transferencia"
+    }
+  },
+  "sunagakure": {},
+  "kumogakure": {},
+  "kirigakure": {},
+  "iwagakure": {},
+  "kinkogakure": {}
+}
